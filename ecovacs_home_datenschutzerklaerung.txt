@@ -1,0 +1,368 @@
+Datum des Inkrafttretens: 2020.09.30
+
+ 
+
+Kapitelverweise
+
+ 
+
+Diese Erklärung enthält:
+
+ 
+
+I.          Wie wir Ihre personenbezogenen Daten erheben und verwenden
+
+II.       Wie wir die Cookie-Technologie oder Beacon-Technologie anwenden
+
+III.    Wie wir Ihre Daten speichern und schützen
+
+IV.    Wie wir Ihre personenbezogenen Daten anvertrauen, weitergeben, übertragen und offenlegen
+
+V.       Wie Sie auf Ihre personenbezogenen Daten zugreifen und diese kontrollieren
+
+VI.    Sicherheit
+
+VII. Haftung
+
+VIII.             Grenzüberschreitende Weitergabe von personenbezogenen Daten
+
+IX.    Umfang und Änderungen dieser Erklärung
+
+X.       Salvatorische Klausel
+
+ 
+
+ 
+
+Wir, Ecovacs Europe GmbH (im Folgenden als „wir“,„unser“ oder „Ecovacs“) achten und schützen Ihre Privatsphäre. Wir fungieren als für die Verarbeitung Verantwortlicher Ihrer personenbezogenen Daten, die wir direkt von Ihnen als betroffene Person erhalten, d.h. als identifizierte oder identifizierbare natürliche Person, deren personenbezogene Daten von dem für die Verarbeitung Verantwortlichen verarbeitet werden. Wir haben zahlreiche technische und organisatorische Maßnahmen zur Gewährleistung eines umfassenden Schutzes der über unsere Website, Produkte und Dienstleistungen verarbeiteten personenbezogenen Datenimplementiert.  Diese Datenschutzerklärung (im Folgenden als „diese Erklärung” bezeichnet) erläutert, wie Ecovacs Ihre personenbezogenen Daten verarbeitet und welche Rechte Sie gemäß dieser Erklärung haben, wenn Sie die von uns bereitgestellte ECOVACS-HOME-App verwenden (im Folgenden als „App“ bezeichnet), um die von Ecovacs zugelassenen Reinigungsrobotern, die mit Ihrem App-Benutzerkonto verbunden sind (im Folgenden als „die Geräte“ bezeichnet) zu steuern und zu verwalten. Ecovacs wird diese Erklärung strikt befolgen.
+
+ 
+
+Wenn Sie detailliertere Informationen wünschen, lesen Sie bitte die entsprechenden, im Inhaltsverzeichnis angegebenen Kapitel.
+
+Das Verständnis dieser Datenschutzerklärung ist für die Nutzung der App mit den Geräten erforderlich. Wir empfehlen Ihnen, den vollständigen Inhalt dieser Datenschutzerklärung sorgfältig durchzulesen und zu verstehen, damit Sie relevante Entscheidungen im eigenen Ermessen treffen können. Diese Datenschutzerklärung gilt nicht unbedingt für Dienste, Aktivitäten oder Produkte Dritter, auf die Sie möglicherweise verwiesen werden und für die möglicherweise eine andere Datenschutzerklärung gilt.
+
+1.         Wir legen die Art und Verwendung Ihrer personenbezogenen Daten fest, um Ihnen das Verständnis der Art, des Verwendungsgrunds und der Art der Erhebung bestimmter personenbezogenerDaten zu erleichtern, die von bestimmten Produkten, Dienstleistungen oder Funktionen der App erfasst werden.
+
+ 
+
+2.         Bei Verwendung bestimmter Funktionen der App können wir auch einige Datenerheben, wenn dies gemäß den geltenden Gesetzen zulässig oder obligatorisch ist (im Folgenden als „Gesetze” bezeichnet). Die Erhebung, der Zweck sowie die Kategorien der Erhebung solcher Daten, die nicht gesetzlich vorgeschrieben sind, werden klar angegeben. Wenn Sie sich weigern, solche Daten bereitzustellen, sind Sie möglicherweise nicht in der Lage, die entsprechenden Funktionen zu verwenden. Dies hat jedoch keinen Einfluss auf Ihren allgemeinen Zugriff auf die Grundfunktionen der ECOVACS-HOME-Produkte und -Dienstleistungen.
+
+ 
+
+3.         Ecovacs wird Ihre personenbezogenen Daten im Allgemeinen nicht gegenüber Drittenoffenlegen, an diese weitergeben oder übermitteln, es sei denn, dies ist ausdrücklich in dieser Datenschutzerklärung angegeben oder durch die einschlägigen Gesetze vorgeschrieben oder gestattet. Wenn die Weitergabe, Offenlegung oder Übermittlung von Daten erforderlich ist, erläutern wir die Gründe/Grundlagen für die Weitergabe, Offenlegung und/oder Übermittlung und holen, sofern dies gesetzlich vorgeschrieben ist, Ihre ausdrückliche Einwilligung ein.
+
+ 
+
+4.         Sie können auf Ihre personenbezogenen Daten zugreifen, diese berichtigen oder löschen oder die vorherige Einwilligung widerrufen, sofern die Verarbeitung Ihrer Daten auf Ihrer Einwilligung basiert, Ihr in der App registriertes Benutzerkonto (das „App-Konto”) löschen, Beschwerden oder Berichte einreichen oder Datenschutzeinstellungen zur Kontrolle Ihrerpersonenbezogenen Daten anwenden oder unsere weitere Verarbeitung einschränken. Beruht die Verarbeitung auf unseren berechtigten Interessen, können Sie auch jederzeit der Verarbeitung der Daten widersprechen. Dies kann durch Kontaktaufnahme mit Ecovacs unter den in dieser Datenschutzerklärung aufgeführten Kontaktinformationen erfolgen.
+
+ 
+
+5.         Sofern die Verarbeitung Ihrer personenbezogenen Daten auf Ihrer Einwilligung oder einem Vertrag mit Ihnen beruht oder die Verarbeitung automatisiert erfolgt und Sie uns Ihre personenbezogenen Daten zur Verfügung gestellt haben, werden wir Ihnen Ihre personenbezogenen Daten auf Verlangen in maschinenlesbarer Form bereitstellen, damit Sie diese Daten bei anderen Dienstleistern verwenden können.
+
+ 
+
+6.         Sie können Ihre Beschwerde jederzeit an die zuständige Aufsichtsbehörde in Ihrem Land weiterleiten, wenn Sie der Ansicht sind, dass unsere Verarbeitung personenbezogener Daten gegen geltende Datenschutzgesetze verstößt.
+
+ 
+
+7.         Bei Fragen, Beschwerden oder Anmerkungen zu dieser Datenschutzerklärung, wenden Sie sich unter den in dieser Datenschutzerklärung aufgeführten Kontaktinformationen an Ecovacs.
+
+ 
+
+Kontaktinformationen:
+
+ 
+
+Für die Verarbeitung Ihrer personenbezogenen Daten Verantwortlicher
+
+Name:  Ecovacs Europe GmbH
+
+Adresse: Holzstraße 2, 40221 Düsseldorf, Deutschland
+
+Telefon + 49 (0) 211 5380 4300
+
+E-Mail: service-de@ecovacs-europe.com
+
+Website: www.ecovacs.com/de
+
+ 
+
+Datenschutzbeauftragter:
+
+Name: Dataco GmbH
+
+Adresse: Dachauer Str. 65, 80335, München, Deutschland
+
+Telefon: +49 89 4045840
+
+E-Mail: datenschutz@dataguard.de
+
+Website: www.dataguard.de
+
+ 
+
+Bitte machen Sie sich mit unseren Datenschutzpraktiken vertraut, in denen behandelt wird, wie wir Ihre personenbezogenen Daten erheben, verwenden, offenlegen, übertragen und speichern. Wir verpflichten uns zur Einhaltung der für uns geltenden Datenschutzgesetze sowie zum Schutz Ihrer Privatsphäre und Datensicherheit. Wir stellen auch sicher, dass alle unsere Mitarbeiter die oben genannten Verpflichtungen erfüllen. Der Zweck der Verarbeitung Ihrer Daten besteht darin, die App und Geräte zu bedienen, Ihnen bessere Dienstleistungen anzubieten und die Qualität unserer Produkte zu verbessern. (z.B. um die Entwicklung neuer Produkte und Funktionserweiterungen bestehender Produkte zu unterstützen und Ihnen qualitativ hochwertige und geeignete Dienstleistungen anzubieten). Sie müssen uns keine personenbezogenen Daten zur Verfügung stellen. Wenn Sie jedoch Ihre in dieser Datenschutzerklärung aufgeführten Daten freiwillig weitergeben, können Sie bessere und persönlichere Dienste sowie schnellere Antworten erhalten.
+
+ 
+
+I.          Wie wir Ihre personenbezogenen Daten erheben und verwenden
+
+ 
+
+(a)    Datentyp, Art der Erhebung und Zweck
+
+ 
+
+Wir können Ihre personenbezogenen Daten verarbeiten: für die in dieser Datenschutzerklärung beschriebenen Zwecke, ohne Ihre Einwilligung, für die Erfüllung einer gesetzlichen Verpflichtung, der Ecovacs unterliegt, für die Erfüllung eines Vertrags, dessen Vertragspartei Sie sind, um Ihre wichtigen Interessen zu schützen, oder wenn es nach unserer Einschätzung für die Zwecke der von Ecovacs oder einem Dritten, an den Informationen weitergegeben werden müssen, verfolgten legitimen Interessen erforderlich ist.
+
+ 
+
+(1)    Daten, die während des Registrierungsvorgangs Ihres App-Kontos angegeben werden. Wenn Sie ein App-Konto registrieren oder ECOVACS-HOME-Produkte und -Dienste über Ihr App-Konto nutzen, erheben und speichern wir Ihre personenbezogenen Daten, einschließlich Ihrer E-Mail-Adresse, Ihres Passworts und Ihrer Ecovacs-ID.  Durch die Bereitstellung Ihrer Informationen garantieren Sie, dass die von Ihnen angegebenen personenbezogenen Daten vollständig und korrekt sind. Zur Erleichterung unserer internen Verarbeitung der Daten, die sich auf Ihr App-Konto beziehen, wird Ihrem App-Konto nach Abschluss der Registrierung Ihres App-Kontos eine Ecovacs-ID (eine zufällige Zeichenfolge) zugewiesen. Ihr auf der ECOVACS-HOME-Website registriertes Konto, das an Ihrem Standort zur Verfügung steht, könnte auch als App-Konto fungieren oder umgekehrt, wobei die Person als Inhaber gilt,deren E-Mail-Adresse bei der Registrierung angegeben wird. Wir können die oben genannten Informationen verwenden, um Ihnen Produkte, Dienstleistungen und Kundendienstleistungen anzubieten und direkt mit Ihnen zu kommunizieren, z.B. um Ihnen E-Mails mit Bestätigungen von App-Konten, Auftragsbestätigungen, wichtigen Änderungen und Aktualisierungen von Servicefunktionen und Mitteilungen bezüglich Technologie und Sicherheit usw. zuzusenden. Diese Informationen sind notwendig, um das App-Konto für Sie einzurichten, das im Rahmen der Endbenutzer-Vereinbarung mit Ihnen geregelt ist, und um Ihnen die Nutzung der App zu ermöglichen. Die Verarbeitung Ihrer personenbezogenen Daten ist für die Erfüllung eines mit Ihnen geschlossenen Vertrags notwendig. Rechtsgrundlage ist Art. 6 Abs. 1 b DSGVO.
+
+ 
+
+Wir behalten uns außerdem das Recht vor, Ihre E-Mail-Adresse zu verwenden, um Sie zu kontaktieren und Ihnen regelmäßig interessante Informationen über uns und unsere Produkte und Dienstleistungen zu senden. Wir verarbeiten Ihre Daten, um unser berechtigtes Interesse an der Durchführung von Direktmarketingkampagnen für unsere Kunden zu verfolgen. Rechtsgrundlage der Verarbeitung ist Art. 6 Abs. 1 f DSGVO. Sie können sich von unseren E-Mail-Direktmarketingkampagnen abmelden, indem Sie in jeder Marketing-E-Mail auf die Schaltfläche „Abmelden“ klicken.
+
+ 
+
+(2)    Daten, die von Ihrem mit Ihrem App-Konto gekoppelten Gerät erhoben werden. Wenn Sie Ihr App-Konto mit Ihrem Gerät koppeln müssen, erheben wir Daten des mobilen Geräts, auf dem Sie die App installieren (einschließlich Gerätemodell, Unification Identification Code, Betriebssystem und Version, IP-Adresse, Mac-Adresse, Land und Stadt), den Wi-Fi-Netzwerkzugang, den Sie für das mobile Gerät und das Gerät verwenden (SSID, Netzwerklayout), Ihre Geräteinformationen (Modell und Seriennummer) sowie den Kopplungsstatus Ihres App-Kontos, (ggf.) den Verlauf und die Hindernisse. Die Erhebung solcher Daten erfolgt kontinuierlich, damit Ihre über die App ausgeführten Befehle, die übertragen werden sollen, Ihr Gerät erreichen, und die von Ihrem Gerät ausgeführten Befehle (einschließlich des abstrakten Layouts der bereinigbaren und bereinigten Bereiche) und der Status IhresGeräts (einschließlich Fehler- und Upgrade-Verlauf übertragen werden, um Ihre App-Kontoschnittstelle zu erreichen. Unsere Verarbeitung solcher Daten beschränkt sich jedoch auf:
+
+ 
+
+(i)        Unter besonderen Umständen, z. B. wenn Fehler und Bugs von Robotern gemeldet werden, erheben wir das abstrakte Layout der bereinigten Bereiche und die Betriebsprotokolle IhresApp-Kontos und Geräts, um Ihnen bei der Lösung von Problemen zu helfen, einschließlich der Wiederherstellung nach den gemeldeten technischen Ausfällen oder Fehlern. Falls Ihr Roboter mit einem Vision-Zensor ausgestattet ist, wird er während seines Betriebs Fotos/Videos aufnehmen, um Hindernisse in der Umgebung zu erkennen und dadurch seine Reinigungsroute zu bestimmen. Wenn aus technischen Gründen eine solche Erkennung auf Ihrem Gerät nicht oder nur schwer möglich ist, können solche Fotos/Videos von uns eigenständig erhoben und für die weitere technische Erkennung verwendet werden, um solche Erkennungsanforderungen zu lösen und Ihr Gerät wieder funktionsfähig zu machen. Die rechtliche Grundlage ist Art. 6 Abs. 1 b DSGVO.
+
+ 
+
+(ii)        Wir verwenden einige dieser Daten auch zur Erstellung von Analysen, um potenzielle Marktbedürfnisse und häufige Fehler zu erkennen. Die zu diesem Zweck verwendeten Daten beschränken sich auf Ihre Ecovacs-ID und einige andere Daten, die an Ihre Ecovacs-ID gebunden sind, darunter Ihr Gerätemodell, die Aufzeichnungen über ausgeführte Befehle, Warnungen und Tipps an Ihr Gerät, die Reinigungsprotokolle Ihres Geräts und die von Ihrem Gerät generierte Karte der Reinigungsumgebung.  Rechtsgrundlage ist Art. 6 Abs. 1 f DSGVO.
+
+ 
+
+(iii)        In seltenen Fällen kann es vorkommen, dass wir nach dem Zufallsprinzip Zugriffauf Ihre oben genannten Fotos/Videos verlangen und sie als Testmaterial in der Entwicklungsforschung verwenden, um unsereErkennungstechnologie weiterzuentwicklen, von der auch Ihr Gerät profitieren kann. Dabei geht es möglicherweise darum, dass wir die personenbezogenen Daten oder andere Informationen über Ihre Privatsphäre und die anderer Personen in einer solchen sauberen Umgebung erheben und verarbeiten, je nachdem, was auf solchen Fotos/Videos zu erkennen ist. Wir verwenden die von Ihrem Gerät aufgenommenen Fotos/Videos, um unsere legitimen Interessen zu verfolgen und sicherzustellen, dass das Gerät ohne Unterbrechung und ohne die Notwendigkeit eines manuellen Eingriffs Ihrerseits funktioniert. Rechtsgrundlage für eine solche Verarbeitung ist Art. 6 Abs. 1 f DSGVO.
+
+ 
+
+Bitte beachten Sie, dass, wenn Sie sich dafür entscheiden, Ihr Gerät mit einem anderen App-Konto als dem Ihren zu steuern, die Daten, die während der Steuerung durch einen anderen App-Kontoinhaber von Ihrem Gerät erhoben werden, auch im Namen dieses App-Kontos aufgezeichnet werden.
+
+ 
+
+(3)    Aus der App erhobene Daten.Um Ihnen die App und die Services der App zur Verfügung zu stellen sowie die Qualität unserer Services und die Sicherheit Ihrer Daten zu gewährleisten, können wir, wenn Sie die App besuchen und die Services der App nutzen, die Art und den Modus der von Ihnen angeforderten Services, die Betriebsinformationen während Ihrer Services, Ihr Betriebsprotokoll (einschließlich beim An- und Abmelden vom Konto) und alle anderen Protokollinformationen in Verbindung mit Ihren Services aufzeichnen, einschließlich Ihrer IP-Adresse, Systemversion, IMEI und MEID Ihres mobilen Geräts, SSID (der Name des WiFi-Netzwerks). Diese Informationen, einschließlich Ihrer IP-Adresse und Ihrer Ecovacs-ID, werden verwendet, um Ihr Gerät mit Ihrem App-Konto zu koppeln und die Verbindung aufrechtzuerhalten. Wenn Sie die App zum ersten Mal öffnen, werden wir Sie außerdem bitten, das Land/Region zu bestätigen, in dem Sie sich befinden, und die bevorzugte Anzeigesprache auszuwählen. Ihre Bestätigung und Ihre Auswahl helfen der App, die richtige Anzeige für Sie innerhalb der App zu bestimmen, und werden in Ihr Profil aufgenommen, wenn Sie danach ein Konto registrieren.
+
+ 
+
+Wenn Sie beabsichtigen, unseren Kundenservice über die App zu finden, erfassen wir neben E-Mail auch Ihre Kommunikationsaufzeichnungen, Kontaktinformationen (falls erforderlich) und andere Informationen, die zur Bearbeitung Ihrer Anfrage erforderlich sind. Zur Bearbeitung Ihrer Anfrage verwenden wir den von Zendesk Inc. bereitgestellten Zendesk-Support. Die Adresse lautet: 1019 Market Street, San Francisco, CA 94103, USA. Wenn Sie eine Anfrage stellen, setzen die Mitarbeiter des Zendesk-Supports ein Cookie, um die Anzahl der ausstehenden und gelösten Anfragen und unsere Antwortzeit auf solche Antwortzeiten zu messen. Diese Informationen werden verwendet, um unseren Kundenservice zu verbessern. Wenn das Problem, auf das Sie stoßen, durch das Aufnehmen von Fotos / Screenshots klarer beschrieben wird, können Sie auch in Betracht ziehen, solche Bilder an den Kundendienst zu senden.
+
+ 
+
+Wenn wir den Zendesk-Support nutzen, werden Ihre persönlichen Daten möglicherweise auf einem Server in den Vereinigten Staaten von Amerika verarbeitet, und die Europäische Union ist nicht der Ansicht, dass der Server ein angemessenes Datenschutzniveau bietet. Um sicherzustellen, dass Ihre persönlichen Daten angemessen geschützt sind, hat Zendesk eine Zertifizierung nach EU-U.S. Datenschutzschild Rahmen und hat verbindliche Unternehmensregeln vorhanden.
+
+ 
+
+Wenn Sie unseren Kundendienst über die App in Anspruch nehmen, erheben wir auch Ihre Kommunikationsaufzeichnungen mit uns, Ihre Kontaktinformationen mit Ausnahme derE-Mail-Adresse (falls erforderlich) und einige andere Informationen, die für die Bearbeitung Ihrer Anfragen erforderlich sind. Um Ihre Anfrage zu bearbeiten, nutzen wir den Zendesk-Support von Zendesk Inc. mit Sitz in 1019 Market St, San Francisco, CA 94103, Vereinigte Staaten von Amerika. Wenn Sie eine Anfrage stellen, setzt der Zendesk-Support Cookies, um die Anzahl der ausstehenden und gelösten Anfragen sowie unsere Antwortzeiten auf diese Antwortzeiten zu messen. Diese Informationen werden zur Verbesserung unseres Kundenservices verwendet. Wenn das von Ihnen angetroffene Problem durch ein Foto/Screenshot klarer beschrieben werden könnte, können Sie auch in Erwägung ziehen, solche Bilder an den Kundendienst zu senden.
+
+ 
+
+Wenn wir den Zendesk-Support nutzen, können Ihre personenbezogenen Daten auf Servern in den Vereinigten Staaten von Amerika verarbeitet werden, deren Datenschutzniveau von der Europäischen Union als ein nicht angemessenes Datenschutzniveau anerkannt wurde. Um zu gewährleisten, dass Ihre personenbezogenne Daten angemessen geschützt werden, hat Zendesk eine Zertifizierung gemäß dem EU-U.S. Privacy ShieldFramework erhalten und verfügt über Binding Corporate Rules.
+
+ 
+
+Die Daten werden verwendet, um (i) den Inhalt der App korrekt zu liefern, insbesondere um die kontinuierliche Verbindung zwischen Ihrem App-Konto und Ihrem Gerät aufrechtzuerhalten, (ii) die langfristige Funktionsfähigkeit unserer informationstechnologischen Systeme und der App-Technologie sicherzustellen und (iii) Ihre Anfragen und Wünsche in Bezug auf Ihre Nutzung der App und/oder Ihres Geräts zu bearbeiten.  Die Verarbeitung dieser personenbezogenen Daten ist notwendig, um diese Endbenutzer-Vereinbarung mit Ihnen zu erfüllen. Rechtsgrundlage ist Art. 6 Abs. 1 b DSGVO.
+
+ 
+
+Darüber hinaus verwenden wir die oben genannten Informationen zur Verfolgung unserer legitimen Interessen, um (i) unser berechtigtes Interesse zu verfolgen, Ihnen die Möglichkeit zu geben, Ihr App-Konto mit denvon Ihnen freiwillig angegebenen Datensowie und unsere Kommunikation mit Ihnen zu personalisieren; (ii) den Inhalt der App sowie die Werbung zu optimieren, um Ihrem Benutzerprofil gerecht zu werden und Direktmarketingkampagnen an unsere Kunden zu richten und (iii) den Strafverfolgungsbehörden die zur Bekämpfung eines Cyber-Angriffs erforderlichen Informationen zur Verfügung zu stellen. Daher verwendet Ecovacs die oben genannten Informationen zur Verfolgung seines legitimen Interesses an der statistischen Auswertung anonym erhobener Daten und Informationen mit dem Ziel, den Datenschutz und die Datensicherheit unseres Unternehmens zu erhöhen und einen optimalen Schutz der von uns verarbeiteten personenbezogenen Daten zu gewährleisten. Rechtsgrundlage für die Verarbeitung ist Art. 6 Abs. 1 f DSGVO.
+
+ 
+
+Darüber hinaus können wir weitere Daten von Ihnen erheben, um Dienstleistungen zu erbringen, unsere Servicequalität, Inhalte und Werbung zu erstellen, zu entwickeln, zu betreiben, zu liefern und zu verbessern (z. B. um relevante Daten zu erheben, die uns zur Verfügung gestellt werden, wenn unser Kundendienst Sie kontaktiert oder Ihre Umfrageantworten an uns zurückgesendet werden, usw.). Wenn Sie sich weigern, solche Daten zur Verfügung zu stellen, kann dies die Qualität unserer Dienstleistungen beeinträchtigen, wobei Sie dennoch die grundlegenden und zentralen Funktionen und Dienstleistungen von Ecovacs nutzen können. Darüber hinaus können wir Ihre personenbezogenen Daten für Ihr App-Konto und aus Gründen der Netzwerksicherheit verwenden, u.a. um unsere Dienste zum Nutzen aller unserer Benutzer zu schützen und hochgeladene Inhalte auf potentiell illegale Inhalte zu überprüfen. Diese Daten sind erforderlich, um unsere legitimen Interessen zur Verbesserung unserer Dienste und Ihres App-Kontos sowie der Netzwerksicherheit zu wahren. Rechtsgrundlage der Verarbeitung ist Art. 6 Absatz 1 f DSGVO.
+
+ 
+
+Soweit dies von Ihrem Gerät unterstützt wird, können Sie über die App auch auf die Kamerafunktion Ihres Geräts zugreifen und die Aufzeichnungen der Kamera innerhalb Ihres App-Kontos einsehen. Sofern hierin nicht anders angegeben, werden wir die Aufzeichnungen der Kamera IhresGeräts nur verwenden, um sie innerhalb Ihres App-Kontos anzusehen und unser und Ihr legitimes Interesse zu verfolgen, um Ihnen die Möglichkeit zu bieten, Ihr Zuhause mit Ihrem Gerät zu überwachen.
+
+ 
+
+(4)    Device Sharing. Das Gerät ermöglicht die Nutzung und Steuerung der App durch mehrere Benutzer, wenn dies von dem Benutzer aktiviert wird, der die App zum ersten Mal mit dem Gerät gekoppelt hat (der „Hauptkontoinhaber“), diese Funktionalität aktiviert hat und weitere Benutzer auffordert, das Gerät über ihre App zu steuern (die „Unterkontoinhaber“). Wenn die Gerätefreigabe aktiviert ist und mehrere Benutzer die das Gerät steuern, werden dem Hauptkontoinhaber und dem Unterkontoinhaber die E-Mail-Adressen des jeweils anderen angezeigt. Diese Verarbeitung ist notwendig, um Ihnen die Device-Sharing-Funktionalität anzubieten und einen bestehenden Vertrag mit Ihnen zu erfüllen. Rechtsgrundlage ist Art. 6 Abs. 1 b DSGVO.
+
+ 
+
+(b)   Aktivitäten und Verantwortlichkeiten innerhalb der Konzerngesellschaften von Ecovacs
+
+Ecovacs ist Teil einer weltweit operierenden Unternehmensgruppe, die über mehrere Rechtssubjekte oder Tochtergesellschaften in verschiedenen Ländern verfügt. Jede dieser juristischen Personen oder verbundenen Unternehmen kann unterschiedliche Aktivitäten und Verantwortlichkeiten in Bezug auf die Erhebung und Verarbeitung Ihrer personenbezogenen Daten haben. Im Rahmen solcher Aktivitäten werden die App einschließlich der IT-Systeme, die für den Betrieb der App und der Geräte erforderlich sind und Sie beim Einloggen in das App-Konto unterstützen, von einem unserer verbundenen Unternehmen (im Folgenden als „der App-Betreiber“ bezeichnet) im Namen von Ecovacs für Kunden, die Ecovac-Produkte verwenden und in der EU ansässig sind, betrieben. Die Server, die wir für den App-Betrieb gemietet haben, stehen ebenfalls unter der Kontrolle des App-Betreibers. Der App-Betreiber ist an der Unterstützung bei der Lösung Ihres Problems bei der Nutzung der App oder Ihres Geräts und an der Analyse der über Ihr App-Konto und die Geräte erhaltenen Informationen beteiligt, um Fehler der App und der Geräte aufzudecken oder Verbesserungsmöglichkeiten im Namen von Ecovacs zu identifizieren. Um Fehler oder potenzielle Verbesserungen der App zu erkennen, werden die über die App erhaltenen Informationen auch einer Analyse des App-Betreibers unterzogen, um Verhaltensmuster unserer Benutzer und häufige Fehler zu identifizieren. In den meisten Fällen verwendet der App-Betreiber Informationen zur Durchführung solcher Analysen. Der App-Betreiber anonymisiert diese Informationen, indem er alle persönlichen Identifizierungsdaten (z.B. ID-Nummern, IP-Adressen, Namen usw.) entfernt oder diese Informationenpseudonymisiert, indem er sie durch eindeutige Kennungen ersetzt, die nicht mit Ihrem App-Benutzerkonto verknüpft sind, bevor der App-Betreiber mit der Analyse beginnt. Der App-Betreiber hat seinen eingetragenen Sitz in der Volksrepublik China, die nicht als Anbieter eines angemessenen Datenschutzniveaus anerkannt wurde. Um die Sicherheit Ihrer personenbezogenen Daten zu gewährleisten, hat Ecovacs die Standardvertragsklauseln für Übertragungen an Verarbeiter außerhalb der EU oder des EWR abgeschlossen.
+
+ 
+
+II.       Wie wir die Cookie-Technologie oder Beacon-Technologie anwenden
+
+ 
+
+(a)    Wie wir die Cookie-Technologie für die automatische Erhebung anwenden. Um Ihnen die Nutzung der App oder der von Ecovacs angebotenen Dienstleistungen zu erleichtern, können wir Sie durch kleine Dateien identifizieren, die Ihnen helfen können, die wiederholte Eingabe Ihrer Informationen zu überspringen oder die Sicherheit Ihres App-Kontos zu bestimmen. Zu diesen Daten können Cookies, FlashCookies oder andere lokal gespeicherte Daten gehören, die vom Betriebssystem auf Ihrem mobilen Gerät bereitgestellt werden (zusammenfassend als „Cookie“ bezeichnet). Unser System kann die Informationen, die Sie mit der App gesucht oder durchsucht haben (z. B. gesuchte Wi-Fi-Namen), automatisch erheben.
+
+ 
+
+(b)   Wie wir die Beacon-Technologie für die automatische Erhebung anwenden. Um Ihre Präferenzen in Bezug auf unsere Produkte und Dienstleistungen besser zu verstehen und unsere Dienstleistungen zu verbessern, kann unsere App auch einige digitale Bilder (nämlich „Single-Pixel-GIF-Datei“ oder „WebBeacon“) einfügen, um Ihr Klicken auf die einzelnen Teile, z. B. in einer Unterseite der App, aufzuzeichnen.
+
+ 
+
+(c)    So verweigern Sie die Anwendung der Cookie-Technologie oder der Beacon-Technologie. Sie können die Verwaltung der Einstellungen von Cookies oder Beacon über Ihre Webbrowser-Einstellungen verweigern. Bitte beachten Sie jedoch, dass Sie bei der Deaktivierung von Cookies oder Beacons möglicherweise nicht den besten Service genießen und dass bestimmte Dienste, die die Kernfunktionalität unserer Produkte und Dienste nicht beeinträchtigen, für Sie ebenfalls nicht verfügbar sein können
+
+ 
+
+III.    Wie wir Ihre Daten speichern und schützen.
+
+ 
+
+(a)    Speicherort für Ihre Daten. Personenbezogene Daten, die im Rahmen der Bereitstellung unserer Produkte und Dienstleistungen für Sie in dem Land, in den Sie ansässig sind, erhoben und erzeugt werden, werden auf Servern von Ecovacs in der Europäischen Union gespeichert. Wir speichern Ihre personenbezogenen Daten nur für den Zeitraum, der zur Erfüllung des in dieser Richtlinie genannten Zwecks erforderlich oder durch geltende Gesetze vorgeschrieben oder erlaubt ist. Bei der Beurteilung dieser Zeiträume prüfen wir sorgfältig, ob wir überhaupt personenbezogene Daten, wie sie hier offengelegt werden, erheben müssen. Wenn wir einen entsprechenden Bedarf feststellen, bewahren wir sie nur für den kürzest möglichen Zeitraum auf, um den Zweck der Erhebung zu verwirklichen, es sei denn, es ist eine längere Aufbewahrungsfrist gesetzlich vorgeschrieben.
+
+ 
+
+(b)   Management und Richtlinien zur Datensicherheit.  Wir verpflichten uns, die Informationssicherheit auf dem gesetzlich vorgeschriebenen Niveau zu halten. Um Ihre Informationen sicher aufzubewahren, verpflichten wir uns, verschiedene Sicherheitstechnologien und damit verbundene Managementsysteme anzuwenden, um Ihre Informationen vor Offenlegung, Zerstörung oder Verlust zu schützen.   Darüber hinaus haben wir Zugriffsverfahren und Genehmigungsmechanismen zur strikten Kontrolle Ihrerpersonenbezogenen Daten eingerichtet.
+
+ 
+
+(c)    Bestätigung des Kontos: Bei der Nutzung Ihres App-Accounts können wir zum Schutz der Sicherheit Ihres App-Kontos verschiedene Verifizierungsmaßnahmen durchführen, um Sie zu identifizieren. Wenn Ihr App-Konto beispielsweise zum ersten Mal auf einem neuen Gerät angemeldet wird, identifizieren wir Sie unter Umständen anhand Ihres Konto-Passworts und eines Verifizierungscodes, der Ihnen unter anderem per E-Mail zugesandt wird.
+
+ 
+
+(d)   Meldemechanismus für Sicherheitsverstöße mit personenbezogenen Daten.  Bitte haben Sie Verständnis dafür, dass aufgrund der Beschränkung der Technologien oder potenziell böswilliger Angriffe Sicherheitsverstöße mitpersonenbezogenen Daten leider auf Faktoren zurückzuführen sein können, die sich unserer Kontrolle entziehen. Bei einem Sicherheitsverstoß werden wir Sie, falls dies nach den Gesetzen erforderlich ist, unverzüglich über die allgemeinen Fakten und potenziellen Einflüsse des Sicherheitsverstoßes, über von uns ergriffene oder noch zu ergreifende Maßnahmen, über Ratschläge zum Schutz Ihrer Informationen und zur Risikominderung sowie über Abhilfemaßnahmen usw. informieren. Wir werden Sie über die relevanten Fakten des Verstoßes per E-Mail, Brief und Telefon oder durch Push-Benachrichtigungen gemäß Ihren Einstellungen über den Erhalt von Mitteilungen von uns informieren. Wenn es uns unmöglich oder schwierig ist, jeden betroffenen Benutzer einzeln zu kontaktieren, werden wir Benachrichtigungen in einer angemessenen und effektiven Weise veröffentlichen.   Wir werden auch das Ergebnis eines Sicherheitsheitsverstoßes im Zusammenhang mit der Sicherheit personenbezogener Daten bei Bedarf an die Aufsichtsabteilungen melden.
+
+ 
+
+（e）Löschung Ihre Daten. Wenn wir die Erbringung von Dienstleistungen oder den Geschäftsbetrieb einstellen, werden wir die Erhebung Ihrer personenbezogenen Daten unverzüglich einstellen und personenbezogene Daten, die wir zu diesem Zweck erhoben haben, unverzüglich löschen oder de-identifizieren. Wir werden Sie auch einzeln oder durch Veröffentlichung relevanter Informationen auf unserer Website oder innerhalb der App benachrichtigen.  Für den Fall, dass es nicht mehr notwendig ist, bestimmte Kategorien Ihrer personenbezogenen Daten zu erheben oder zu verarbeiten, um alle hier genannten Zwecke zu erfüllen, werden wir die Erhebung der relevanten personenbezogenen Daten einstellen und/oder die erhobenen Daten löschen oder ihre Identifizierung aufheben.
+
+ 
+
+IV.    Wie wir Ihre personenbezogenen Daten anvertrauen, weitergeben, übertragen und offenlegen
+
+ 
+
+(a)                 Delegation der Datenverarbeitung und Datenweitergabe
+
+ 
+
+Wenn für die Bereitstellung besserer oder zufriedenstellender Produkte oder Dienstleistungen erforderlich, können wir Drittanbieter damit beauftragen, Ihre personenbezogenen Daten zu analysieren oder zu verarbeiten oder diese an unsere verbundenen Unternehmen oder Drittanbieter weitergeben.
+
+ 
+
+Konkret beziehen wir derzeit Anbieter von Cloud-Diensten ein, um die App und die gespeicherten Daten zu hosten, Informationen über die Absturz-Historie der App und Ihr Nutzungsverhalten zu sammeln und um Push-Benachrichtigungen zu versenden.
+
+ 
+
+Es gibt auch Fälle, in denen wir verpflichtet sind, Ihre personenbezogenen Daten den zuständigen Ausichtsbehörden gemäß den Gesetzen, Gerichtsbeschlüssen, anderen in Gerichtsverfahren erteilten Anordnungen oder zwingenden Anforderungen von Verwaltungs- oder Gerichtsorganen zur Verfügung zu stellen.Die Weitergabe von Daten unter diesen Umständen erfordert möglicherweise nicht Ihre vorherige Genehmigung oder Einwilligung. Rechtsgrundlage für eine solche Weitergabe Ihrer Daten ist Art. 6 Abs. 1 c DSGVO oder Art. 6 Abs. 1 f DSGVO.
+
+ 
+
+Dritte, an die Ecovacs personenbezogene Daten auf der Grundlage der oben genannten Bestimmungen weitergeben kann oder muss, können sich in einem anderen Land befinden.
+
+ 
+
+(b)                 Digitale Werbung und Analytik
+
+ 
+
+Wir können Partnerschaften mit Werbenetzwerken und anderen Anbietern von Werbedienstleistungen („Werbeanbieter“) eingehen, die in unserem Namen und in anderen Bereichen der App Werbung schalten können. Einige dieser Werbeanzeigen können auf der Grundlage Ihrer Benutzerdaten personalisiert werden. Diese Art von Werbung wird als interessenbezogene Werbung bezeichnet. Zu Ihrer leichteren Identifizierung werden wir alle Anzeigen mit einem „Anzeigen“-Aufdruck versehen.
+
+ 
+
+Wir beziehen Werbeanbieter ein, um Werbung zu identifizieren, die für Sie und/oder für Produkte, die mit Ihrem Gerät verwendet werden können, von Interesse sein könnte, Ihnen diese in der App zu präsentieren und die Wirksamkeit unserer in der App präsentierten Werbung und Ihrer Interaktionen mit ihr zu analysieren. Diese Informationen werden nicht verwendet, um Sie persönlich zu identifizieren, sondern um sie auf pseudonymisierte Weise zu analysieren. Diese Technologie ermöglicht es uns, unsere legitimen Interessen zu verfolgen, Ihnen Werbung zu präsentieren, die Ihren individuellen Interessen entspricht, und Direktmarketingkampagnen für unsere Produkte und Dienstleistungen an unsere Kunden durchzuführen.
+
+ 
+
+Sie können solche personalisierte Werbung in der App innerhalb Ihrer Kontooberflächewiderrufen, indem Sie alle empfohlenen Anzeigen widerrufen. Bitte beachten Sie, dass die Opt-out-Option die Anzeige von Werbung in Ihrem Browser oder Ihren Anwendungen nicht verhindert. Wenn Sie jedoch widerrufen, könnte es sein, dass die Ihnen angezeigte Werbung für Ihre Interessen irrelevant ist.
+
+ 
+
+(c)                  Datenübermittlung
+
+ 
+
+In der Regel werden wir Ihre personenbezogenen Daten nicht an Drittfirmen, Organisationen und Einzelpersonen weitergeben, mit Ausnahme der folgenden Fälle: Weitergabe von Informationen, wenn Ecovacs eine Übernahme, Fusion oder Sanierung durchgeführt hat.
+
+ 
+
+Durch die kontinuierliche Entwicklung unseres Geschäfts kann Ecovacs Transaktionen durchführen, einschließlich Fusionen, Übernahmen und Vermögensübertragungen. Wir benachrichtigen Sie über relevante Tatsachen und schützen oder veranlassen die datenempfangenden Parteien, Ihre personenbezogenen Daten kontinuierlich gemäß den Gesetzen oder bei jeder Transaktion gemäß den Anforderungen der Gesetze und Vorschriften zu schützen, die mindestens dem Standard dieser Datenschutzerklärung entsprechen. Rechtsgrundlage für eine solche Offenlegung Ihrer Daten ist Art. 6 Abs. 1 f DSGVO.
+
+ 
+
+(d)                 Offenlegung
+
+ 
+
+Wir werden Ihre personenbezogenen Daten nicht gegenüberder Öffentlichkeit offenlegen. Wenn eine Offenlegung erforderlich ist, werden wir Sie über den Zweck einer solchen Offenlegung, die Art der offengelegten Informationen und den Umfang der betroffenen sensiblen Informationen informieren.
+
+ 
+
+V.       Wie Sie auf Ihre personenbezogenen Daten zugreifen und diese kontrollieren
+
+ 
+
+(a)    Wie Sie auf Ihre personenbezogenen Daten zugreifen oder diese berichtigen. Sie können sich an den App-Betreiber wenden, dessen Kontaktinformationen in dieser Datenschutzerklärung aufgeführt sind, um Zugriff zu beantragen, Ihr persönliches Profil einzusehen oder zu ändern oder um relevante Änderungen an den Datenschutz- oder Sicherheitseinstellungen vorzunehmen, oder wenn Sie feststellen, dass die von uns erfassten und gespeicherten personenbezogenen Daten fehlerhaft sind.
+
+ 
+
+(b)   Wie Sie dem Erhalt von Werbemitteilungen widersprechen. Sie können auf die Schaltfläche „Abmelden“ in allen von uns versandten E-Mails klicken, um den Erhalt von Werbebenachrichtigungen zu widerrufen. Bitte beachten Sie, dass Sie keine Nachrichten im Zusammenhang mit Ihrem App-Konto (z.B. Verifizierungen Ihres App-Kontos, Auftragsbestätigungen, Änderungen oder Aktualisierungen von Servicefunktionen oder Hinweise zu Technik und Sicherheit usw.) abmelden oder den Empfang von Nachrichten widerrufen dürfen, solange Sie Ihr App-Konto nicht gekündigt haben.
+
+ 
+
+(c)   Wie Sie Ihre personenbezogenen Daten löschen.Wenn Sie feststellen, dass unsere Erhebung und Nutzung Ihrer personenbezogenen Daten gegen die Gesetze oder unsere Vereinbarungen verstößt, können Sie sich an den App-Betreiber wenden, dessen Kontaktinformationen in dieser Datenschutzerklärung aufgeführt sind, und ihn bitten, Ihre personenbezogenen Daten zu löschen.
+
+ 
+
+(d)   So kündigen Sie Ihr App-Konto. Sie können sich an den App-Betreiber wenden, dessen Kontaktinformationen in dieser Datenschutzerklärung aufgeführt sind, und die Löschung Ihres App-Kontos beantragen. Bitte beachten Sie, dass wir Ihre personenbezogenen Daten nach der Löschung Ihres App-Kontos löschen oder anonymisieren werden.
+
+ 
+
+VI.    Sicherheit
+
+ 
+
+Ecovacs verpflichtet sich, nach besten Kräften alle angemessenen Maßnahmen zu ergreifen (oder ergreifen zu lassen), um den Schutz der personenbezogenen Daten durch technische Sicherheitsmaßnahmen wie SecureSocket Layer (SSL)-Verschlüsselungszugang und eine angemessene Sicherheitspolitik für seine Mitarbeiter zu gewährleisten. Die personenbezogenen Daten werden bei Ecovacs oder, falls zutreffend, beim Verarbeiter der personenebezogenen Daten auf Servern gespeichert, die in Ali-Cloud-Einrichtungen mit physischen Sicherheitsmaßnahmen in Frankfurt, Deutschland, untergebracht sind.
+
+ 
+
+Um die Sicherheit Ihrer personenbezogenen Daten zu gewährleisten, teilen wir unsere Datenschutz- und Sicherheitsrichtlinien den Mitarbeitern von Ecovacs mit und setzen Datenschutzmaßnahmen innerhalb des Unternehmens strikt durch.
+
+ 
+
+VII. Haftung
+
+ 
+
+Schadensersatzansprüche wegen Pflichtverletzung und aus unerlaubter Handlung sowie Ansprüche auf Ersatz vergeblicher Aufwendungen sind sowohl gegenüber Ecovacs als auch gegenüber seinen Mitarbeitern und Erfüllungsgehilfen ausgeschlossen.
+
+ 
+
+Diese Haftungsbeschränkung gilt nicht, wenn der Schaden vorsätzlich oder grob fahrlässig verursacht wurde oder auf der Verletzung wesentlicher Vertragspflichten beruht, d.h. Vertragspflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht, auf deren Einhaltung der Vertragspartner regelmäßig vertrauen darf und bei deren Verletzung die Erreichung des Vertragszwecks gefährdet ist. Sie gilt ferner nicht für Schäden bei Tod, Körperverletzung oder der Beeinträchtigung der Gesundheit, wenn Ecovacs die Pflichtverletzung zu verantworten hat. Die Beschränkung gilt ferner nicht für Schäden, die auf dem Fehlen einer zugesicherten Eigenschaft beruhen oder für die eine Haftung nach dem deutschen Produkthaftungsgesetz vorgesehen ist.
+
+ 
+
+VIII.             Grenzüberschreitende Übertragung von Daten
+
+ 
+
+Grundsätzlich werden die personenbezogenen Daten, die während der Bereitstellung relevanter Produkte und Dienstleistungen erhoben und erzeugt werden, auf unseren Servern in der Europäischen Union gespeichert. Da wir Produkte oder Dienstleistungen auf der Grundlage unserer Ressourcen und Server weltweit anbieten, können Ihre personenbezogenen Daten an eine Rechtsordnung außerhalb der Europäischen Union übermittelt oder von einer solchen Rechtsordnung außerhalb der Europäischen Union abgerufen werden.  Ecovacs hat mit seinen Dienstleistungsanbietern und verbundenen Unternehmen genehmigte Standardvertragsklauseln für solche internationalen Übertragungen personenbezogener Daten eingeführt.
+
+IX.    Geltungsbereich und Änderung dieser Datenschutzerklärung
+
+Diese Datenschutzerklärung gilt für alle Kunden und Benutzer von ECOVACS-HOME-Produkten und -Dienstleistungen.
+
+ 
+
+Wir ändern diese Bedingungen jeweils. Bei einer Änderung der Klauseln dieser Datenschutzerklärung werden wir Ihnen die geänderte Datenschutzerklärung in Form von Push-Benachrichtigungen anzeigen, wenn Sie sich im App-Konto anmelden oder Ihre Produkte oder Dienstleistungen aktualisieren. Wir können Sie auch über Ihre gespeicherten Kontaktinformationen kontaktieren, z. B. per E-Mail, Benachrichtigung oder eine andere gleichwertige Methode.
+
+ 
+
+Sie finden diese Datenschutzerklärung in der App und können diese unter „Ich - Einstellung - Über - Nutzungsvereinbarung und Datenschutz“ lesen. Wir empfehlen Ihnen, unsere Datenschutzerklärung bei jedem Zugriff auf unsere Dienste zu lesen.
+
+ 
+
+X.       Salvatorische Klausel
+
+ 
+
+Wenn eine Bestimmung in dieser Datenschutzerklärung als rechtswidrig oder nicht durchsetzbar erachtet wird, wird diese Bestimmung von Ecovacs geändert, soweit dies erforderlich ist, um sie rechtmäßig oder durchsetzbar zu machen, wobei die Bedeutung der Ecovacs in Bezug auf diese Bestimmung so weit wie möglich gewahrt wird.
+
+ 
+
+Wann immer möglich, werden die Bestimmungen dieser Datenschutzerklärung so ausgelegt, dass sie gemäß den geltenden Gesetzen und Vorschriften gültig und durchsetzbar sind. Sollten sich jedoch eine oder mehrere Bestimmungen dieser Datenschutzerklärung ganz oder teilweise als ungültig, rechtswidrig oder nicht durchsetzbar erweisen, so bleibt der Rest dieser Bestimmung und dieser Datenschutzerklärung vollumfänglich in Kraft und wirksam, als ob eine solche ungültige, rechtswidrige oder nicht durchsetzbare Bestimmung nie darin enthalten gewesen wäre.
+3h

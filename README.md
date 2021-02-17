@@ -1,0 +1,1 @@
+# ECOVACS-HOME-App Datenschutzrichtlinie

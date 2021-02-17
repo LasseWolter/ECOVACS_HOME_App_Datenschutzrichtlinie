@@ -1,0 +1,501 @@
+Effective Date:2020.09.30
+
+ 
+
+Chapter references
+
+ 
+
+This Policy sets out:
+
+ 
+
+I.          How we collect and use your personal information
+
+II.       How we apply Cookie technology or Beacon technology
+
+III.    How we store and protect your personal information
+
+IV.    How we transfer your personal information to other entities
+
+V.       Your rights: How to access to and control your personal information
+
+VI.    Location of data storage, and cross-border transfer of personal information
+
+VII. Liability
+
+VIII.    Amendment to this Policy
+
+IX.    Severability
+
+ 
+
+ 
+
+We, Ecovacs Robotics Co., Ltd. (hereinafter referred to as “we”, “us” or “our”) respect and protect your privacy and personal information.  This ECOVACS HOME Privacy Policy (hereinafter referred to as this “Policy”) explains the way we process your personal information and the rights you have under this Policy, when you use the ECOVACS HOME App provided by us (hereinafter referred to as the “App”) to control and administer the robotic cleaning device that are connected to your App user account (hereinafter referred to as the “Device”).  Being the App operator, we act as the controller of your personal data which we will obtain directly from you as the data subject.
+
+ 
+
+If you would like more detailed information, please refer to the corresponding chapters in accordance with the index.
+
+ 
+
+This Policy applies to all users of ECOVACS HOME products and services, to be specific, individuals who have complete capacity according to the Law and register with the App to enjoy the relevant ECOVCS HOME products and services (each a “user”).  We do not intend to serve any minors nor collect any personal information from minors, and if, due to reasons out of our control such collection occurs, we will remove such information once we are notified.
+
+ 
+
+Your understanding of this Policy is necessary for you to use the App and its functions relevant with the Device and is also necessary for you to be a user.  We recommend that you carefully read and understand the full content of this Policy so that you can make relevant choices as you deem appropriate.  By clicking to accept or to show that you understand this Policy, you are deemed as acknowledging and consenting to comply with this Policy in your use of or in connection with the App.  This Policy is not necessarily applicable to services, activities or products of third parties to which you may be referred and on which a different privacy policy might apply.
+
+ 
+
+1.         This Policy is to help you understand the type, reason to use and the collection mode of specific personal information, which is collected by certain products, services or functions of the App.
+
+ 
+
+2.         Your usage to certain functions of the App may initiate our collection of some information.  Such collection and its purpose, other than being required by applicable law (hereinafter referred to as “Law”), are clearly stated in this Policy for your review.  If you refuse to provide such information that is relevant to a specific function only, such function would not be available to you, but this will not affect your general access to other functions of ECOVACS HOME products and services.  When certain categories of your personal information become unnecessary to be collected or processed in order to achieve all the applicable purposes specified herein, we will stop collecting the relevant personal information and/or de-identify or delete the information collected.
+
+ 
+
+3.         Generally, we do not share, disclose, or transfer your personal information to any third parties unless otherwise expressly stated in this Policy or required or permitted by relevant Law.  If the sharing, disclosure, or transfer of information is necessary, we will explain the reasons/basis for such sharing, disclosure, or transfer, and, to the extent legally required, obtain your express consent.
+
+ 
+
+4.         You may access, correct or delete your personal information, or withdraw previous consent, insofar as the processing of your personal information is based on your consent; you may also cancel your user account registered with the App (the “App account”), file complaints or reports or apply privacy setting to control your personal information or restrict us from further processing.  If the processing is based on our legitimate interests, you may also be entitled to object to the processing of data at any time.  This can be done via contacting us under the contact information listed in this Policy.
+
+ 
+
+5.         Insofar as the processing of your personal information is based on your consent or on a contract with you or the processing is carried out by automated means and you have supplied us with your personal information, we will, upon request, provide you with your personal information in a machine readable form in order for you to use such information with other service providers.
+
+ 
+
+6.         You may at any time refer your complaints to the relevant regulator in your jurisdiction if you believe that our processing of personal information violates the Law on personal information protection.
+
+ 
+
+7.         If you have any questions, complaints or comments related to this Policy, our implementation of the Law on personal information protection, or would like to exercise your rights as specified below and by the Law, please contact us under the contact information listed in this Policy.
+
+ 
+
+Contact Information:
+
+ 
+
+[Our officers in charge of Data Protection:
+
+Website: www.ecovacs.com/global/support/contact-us
+
+ 
+
+Please familiarize yourself with our privacy practices that cover how we collect, use, disclose, transfer, and store your personal information.  We undertake to comply with the Law on personal information protection applicable to us to protect your personal privacy and data security.  We also ensure that all of our employees will perform the abovementioned obligations.  The purpose of processing your information is to operate the App and the Device and to offer you better services and improve the quality of our products, e.g. to support the development of new products and function upgrades of existing products in order to provide you with high-quality and suitable services.
+
+ 
+
+I.          How we collect and use your personal information
+
+ 
+
+(a)    Information Type, Collection Mode and Purpose
+
+ 
+
+We may process your personal information: for the purposes described in this Policy; with your consent; for compliance with our legal obligations; for the performance of a contract to which you are a party; in order to protect your vital interests; or when we have assessed it is necessary for the purposes of legitimate interests pursued by us or a third party to whom it may be necessary to transmit information (please refer to Section IV below for details).
+
+ 
+
+(1)    Personal Information provided during the registration procedure of your App account.
+
+ 
+
+An App account would be necessary for you to use functions in the App, especially those relevant to your Device.  When you register for an App account, we will collect and store your personal information, including your email address, password and Ecovacs ID.  By providing your information, you are warranting that the personal information you have provided to us are complete and accurate.  To facilitate our internal processing to refer to the data related to your App account, upon the completion of your App account registration, an Ecovacs ID (which is a random character string) will be assigned to your App account.  By having you bound with an App account and an Ecovacs ID, the App and we can recognize your commands and needs and to differentiate you among the other users, through which we can transmit your commands correctly to your Device, and to serve you on the basis of long-term understanding and perform the ECOVACS HOME User Agreement with you.
+
+ 
+
+Your account registered with our e-shopping channel (if applicable) can also work as an App account or vice versa, we will recognize the accounts as owned by the same person if the same email address is provided for registration.  Please note that, the personal information we collect from the accounts registered by the same email address will be integrated and used according to the respective privacy policy binding upon such collection.
+
+ 
+
+The above information will be used to verify your identity; match and assemble the operations made in the name of your App account; match and feedback on the status of your Device; facilitate our handling of customer service and after-sale requests you made to us; and send you notifications of the above, account verification, important changes and updates of service functions, and notices regarding technology and safety, etc.
+
+ 
+
+We also reserve the right to use your email address to contact you to send you interesting information about us and our products and services on a regular basis, i.e. direct marketing.  You may unsubscribe from our email direct marketing campaigns by clicking the unsubscribe button provided in every marketing email.
+
+ 
+
+(2)    Personal Information collected by the Device paired with your App account.
+
+ 
+
+To maintain and secure the performance by your Device of your commands and your Device status to be transmitted to reach your App account interface, and for your ease of review, some information sourcing from your Device needs to be transmitted through or stored at our servers.  Among such information, those which may be deemed as your personal information include: (i) SSID, network layout and IP address of Wi-Fi network access status your Device refers to; (ii) model, serial number of your Device; (iii) the operational log, status data of your Device; (iv) error and upgrade history of your Device; (v) cleaning environment 2D map generated by your Device; and (vi) photos/videos recorded by your Device’s vision censor in the cleaning environment (if applicable).
+
+ 
+
+With regards to the last item mentioned above, please note that: in case your Device is equipped with a vision censor, it will take photos/videos to recognize obstacles around and thereby decide its cleaning route during its operation.  If due to technical reasons such recognition does not or is difficult to be processed by your Device, in order to solve such recognition needs and make your Device functional again, such photos/videos may be autonomously transmitted to and processed at our servers, or processed manually by our employees.  For some models of the Device, you may be able to view through the App videos taken in a real-time manner and/or their records, in this case, your Device can act as a visual monitor.
+
+ 
+
+Our processing of such personal information is limited to:
+
+ 
+
+(i)                 For all such personal information transmitted through and stored at our servers, we conduct data processing to achieve the performance of your commands, to the end of performing the ECOVACS HOME User Agreement with you.  A special case is to follow your instruction to have the information on your Device to be shared with other users: you may opt through the App to have your Device to be used and controlled by one or more users jointly (the “Device Sharing”), in which situation will be the “Main Account Holder”, and other users you invite and approve to control your Device through their App interface will be “Sub Account Holders”.  If you are one of the Sub Account Holders, your commands over the shared Device can be viewable by the Main Account Holder and other Sub Account Holders.
+
+ 
+
+(ii)               We also use some personal information, along with your Ecovacs ID, to compile analysis to spot potential market needs and common faults, and support the long-term viability and ongoing updates of our technology regarding information systems, Devices and mobile applications.  Such personal information used for this purpose will be limited to your Device model, the records for commands performed by your Device, warnings and tips on your Device, your Device cleaning logs and errors, and cleaning environment 2D map generated by your Device.
+
+ 
+
+(iii)             We refer to operational logs, cleaning environment 2D map on your Device to supplement our user profiling on you, and optimize and personalize the content of the App accordingly.  We will also customize our advertisements or third-party advertisements (displayed among the App content, by the notification pushes within the App or on the top page of your mobile device), and our direct marketing campaigns (sent to your email address as provided during the App account registration process) to suit such profiling.  Please note that for profiling purposes, we refer to the evaluation of your tastes, preferences and consumption habits related to market surveys and statistical analysis.  The processing for profiling purposes could take place with automated forms of processing.
+
+ 
+
+(iv)              Occasionally, we may randomly require access to your photos/videos and use them as testing materials for our research and development to advance our recognition technology which may benefit your Device.  In such cases, it possibly involves the collection and processing of your personal information or other privacy information and other individuals in the cleaning environment, depending upon what is revealed in such photos/videos.  We will only use the photos/videos captured by your Device to pursue our legitimate interests to ensure that the Device is functional without interruption and without the necessity of your manual interference.
+
+ 
+
+With regards any personal information collected by the Device owing to your commands or settings within the App, we will reasonably assume that they are performed by you, or by individuals from whom you have obtained full and valid consent or other legal grounds under the Law for us to collect, use, and transmit their personal information in strict compliance with this Policy.
+
+ 
+
+Please kindly note that, if you choose to share control over your Device with an App account other than yours, the data collected from your Device during the control by another App account holder will also be recorded under the name of such App account.
+
+ 
+
+(3)    Personal Information collected from the App.
+
+ 
+
+When you open the App for the first time, we will ask you to confirm the country/region you are in, and to select the preference of the display language.  This will help the App to determine the corresponding version of the ECOVACS HOME User Agreement and the ECOVACS HOME Privacy Policy for display within the App, your preference will also be added into your profiling if you register for an App account thereafter.
+
+ 
+
+To enable you to pair your App account with your Device and transmit your commands continually to your Device, during the period your account is logged in, we will collect (i) information of the mobile device on which you install the App, including device model operating system and its version, IP address, Mac address, country and city located; (ii) SSID, network layout, status and errors of the Wi-Fi network access your mobile device refers to; (iii) your App account’s pairing status, history and errors (if any); and (iv) log-in time, commands and operational log generated in the name of your App account.  We will also collect the “unification identification code” of your mobile device, i.e. its IMEI and MEID; the use will be limited to referring to your historical data collected or generated on the specific mobile device, and to recognize if your App account has been logged in a strange mobile device which may implies an App account theft.
+
+ 
+
+When you utilise our customer service through the App, we will also collect your communication records with us, your contact information other than email (if required) and other information required for handling your requests.  Please refer to the Annex of this Policy for the details of the service provider we have engaged in conducting such collection.
+
+ 
+
+The permission for “Storage” on your mobile device is indispensable for the operation of the App, its updates or upgrades, and storing any information collected form the App.  To conduct the abovementioned information, the following permissions on your mobile device will be sought by the App: (i) access to “Mobile Data”, “Location” and “Wi-Fi Information” (and “Bluetooth” if the operating system on your mobile device is IOS 13.0 or above), in order to configure the connection for network matching and perform App functions that relies on network; (ii) access to “Device Information” in order to secure the use of your App account.
+
+ 
+
+Occasionally, some other permissions will be requested from you of which you may object, the consequence of which will inactivate certain functions pursued by you: (i) if you choose to connect to a Wi-Fi network by scanning a QR code, access to “Photo Album” and/or “Camera” will be further required; and (ii) if you choose to have the Device broadcast real-time voice commands (only possible on few Devices models ), access to “Microphone” is further required.
+
+ 
+
+Our processing of such personal information is limited to:
+
+ 
+
+(i)                 deliver the content of the App correctly, in particular to maintain the continual connection among your App account, your commands made through your App account and your Device;
+
+ 
+
+(ii)               process your commands, enquiries and requests with regard to your use of the App and/or your Device, including customer service;
+
+ 
+
+(iii)             compile analysis to spot potential market needs and common faults, improve our service quality and support the long-term viability and ongoing updates of our technology regarding information systems, Devices and mobile application (prior to being used for this purpose, the personal information would be de-identified as much as possible);
+
+ 
+
+(iv)              create and supplement our user profiling on you, therefore optimizing and personalizing the content of the App, our or third-party advertisements (displayed among the App content, by push notification within the App or on the top banner of your mobile device), and our direct marketing campaigns (sent to your email address provided during the App account registration process) to suit such profiling; and
+
+ 
+
+(v)                conduct our legal obligations such as “Know Your Clients”, record keeping and network security protection, in order to provide law enforcement authorities with the information necessary to prevent, tackle or supervise data security risks.
+
+ 
+
+To push advertisements and other various kinds of notifications to your App account interface, it is necessary to obtain your permission to the App on the access to “Notice” function on your mobile device, and some tools sourcing from our service providers will be integrated in the App (please refer to the Annex of this Policy for details).  Please check the user settings to switch off receiving the specific categories of such notices.  We will distinct advertisements with an “ad” imprint on all advertisements for your ease of identification.
+
+ 
+
+During Device Sharing, if you as the Main Account Holder intend to share control with other individuals whom have not been registered with the App, you are required to seek their consent prior to submitting their email addresses within the App, so that we could send them an email address containing an invitation to register for an App account.
+
+ 
+
+II.       How we apply Cookie technology or Beacon technology
+
+ 
+
+(a)    How we apply Cookie technology to automatically collect information.  To facilitate your use of the App or of services provided by us, we may identify you through small data files, which may assist you in skipping the repeat input of your information or help determine the safety of your App account.  This data may include cookies, flash cookies, or other local stored data provided by the operating system on your mobile device (collectively, the “Cookies”).  To be particular, we refer to Cookies to collect SSID of Wi-Fi network you once searched in the App.
+
+ 
+
+(b)   How we apply Beacon technology to automatically collect information.  To further understand your preferences on our products and services, and improve our services, our App may also insert some digital images (namely “single-pixel GIF file” or “Web Beacon”, collectively “Beacons”), in order to record your clicks at the particular parts such as in a subpage of the App.
+
+ 
+
+(c)    How to refuse to apply Cookie technology or Beacon technology.  You can refuse to or manage the settings of Cookies or Beacons through your web browser settings.  However, please note that if you disable Cookies or Beacons, you may not enjoy the best service experience and certain services, which will not affect the core functionality of our products and services.
+
+ 
+
+III.    How we store and protect your personal information
+
+ 
+
+(a)    Our management and policies concerning data security. We undertake to maintain information safety to the level as specified by the Law, to protect your information from being improper disclosed, destroyed, misused, or lost.  We commit to take (or have taken) all reasonable measures to our best ability to safeguard the protection of the personal data through technical safety measures such as Secure Socket Layer (SSL) encryption access and an appropriate safety policy for our employees.  We also communicate our privacy and security guidelines to our employees and strictly enforce privacy safeguards within our group.  We have further established internal mechanisms to permit and approve the access to your personal information, and also select the trustful and qualified third-party providers of cloud facility for the storage of such data.
+
+ 
+
+(b)   Account Verification.  In the process of using your App account, to protect your App account security, we may undertake different verification measures to identify you.  For example, if your App account is logged in for the first time on a new mobile device, we may identify you by using your App account passcode plus a check code sent to you by ways including, but is not limited to, a verification email.
+
+ 
+
+(c)    Reporting mechanism for personal information safety accidents.  Please understand that due to limitation of technologies or potential malicious attacks, personal information safety accidents may unfortunately occur due to factors beyond our control.  If a safety accident occurs, if required by the Law, we will immediately notify you of the general facts and potential influences of the safety accident, measures we have adopted or will adopt, advice for you to protect your information and reduce risks, as well as remedial measures, etc.  We will inform you of the relevant facts of the accident by email, letter and telephone or by pushing notifications as per your settings on receiving communications from us.  If it is impossible or difficult for us to contact every affected user individually, we will publish notifications in a reasonable and effective manner.  We will also report the result of personal information safety accident to regulatory departments if required.
+
+ 
+
+(d)   Store your information with time limitations.  We will only store your personal information for the period necessary to fulfill the purposes outlined in this Policy or required or permitted by the Law.  When assessing these periods, we carefully examine our needs to collect personal information as revealed herein, and if we establish a relevant need, we will only retain it for the shortest possible period to realize the purpose of collection unless a longer retention period is required by the Law, and thereafter have your personal information destroyed or anonymized by irreproducible means.  With regards to any third party revealed in Section IV, we undertake to promptly follow our instructions to delete your personal information during and at the end of the cooperation between it and us.  If we stop the provision of ECOVACS HOME services or business operations, we will promptly cease to collect your personal information, and will delete or de-identify your personal information collected by us without delay, in which case we will give individual notice, or by publishing the relevant information on our website or within the App.
+
+ 
+
+IV.    How we transfer your personal information to other entities
+
+ 
+
+In addition to the scenarios that we undertake your commands to share your personal information with other users, such as during Device Sharing, we may have your personal information transmitted to other entities in the following situations:
+
+ 
+
+(a)      Delegated processing and sharing in normal situations
+
+ 
+
+If it is necessary for providing you with better or satisfactory products or services, we may engage third-party service providers to analyze or process your personal information or share your personal information with our affiliates or third-party service providers.
+
+ 
+
+With regards to our affiliates, please note that we are the headquarters of a global operating group of companies running the ECOVACS HOME brand, which has multiple legal entities or affiliates across different jurisdictions.  To be specific, among our affiliates, the research and development team, maintenance and customer service team supporting ECOVACS HOME brand will have access to your personal information and will conduct data processing on your personal information.
+
+ 
+
+With regards to third-party service providers who can obtain and/or process your personal information in connection to the App, please refer to the Annex of this Policy for details.  Specifically, we currently involve cloud services providers to host the App and store data, to collect information about the crash history of the App and your usage behavior and to send push notifications.  We undertake to prompt such service providers to abide by the Law and use your personal information only for the purposes listed in this Policy.
+
+ 
+
+There are also cases where we are required to provide your personal information to the competent regulatory agencies pursuant to the Law, court orders, any other provisions of legal proceedings, or mandatory requirements imposed by administrative or judicial bodies.  To the extent permitted by the Law, information sharing under this circumstance does not require your prior authorization or consent.
+
+ 
+
+(b)     Delegated processing and sharing in Digital Advertising & Analytics
+
+ 
+
+With regards to our digital advertising and analytics on user profiling, we may partner with advertising networks and other advertising serving providers for the following functions (please refer to the Annex of this Policy for details):
+
+ 
+
+(i)                 to push advertisements on our behalf and others within the App;
+
+ 
+
+(ii)               to identify advertising that might be of interest for you and/or for products that can be used with your Device and to present them to you within the App; and
+
+ 
+
+(iii)             to analyze the effectiveness of our advertisements presented in the App and your interactions with them, which will be conducted in a pseudonymized way.
+
+ 
+
+The involvement of such service providers enables us to pursue our legitimate interests to present you advertisements that suit your individual interests and to perform direct marketing campaigns for our products and services to you.  We undertake to prompt such service providers to abide by the Law and use your personal information only for the purposes listed in this Policy.
+
+ 
+
+Additionally, some advertisements provided within the App might be of advertisers other than us, we will not share any of your personal information with such advertisers, nor will such advertisers obtain your personal information directly through the App.
+
+ 
+
+(c)      Control Transfer
+
+ 
+
+In principle, we will not transfer and cease our control over your personal information to any third-party entities except when we would have undergone acquisition, merger or reorganization.
+
+ 
+
+With the continuous development of our business, we may engage in transactions including mergers, acquisitions and assets transfers.  We will notify you if such were to occur, and continuously protect or cause data receiving parties to continuously protect your personal information pursuant to the Law or, in each transaction as required by the Law and with no less than the standard stipulated under this Policy.
+
+ 
+
+(d)     Public Disclosure
+
+ 
+
+We will not disclose your personal information to the public, unless we notify you of the purpose of such specific disclosure, the type of information to be disclosed, and the scope of any sensitive information (if any, as defined in the Law) involved.
+
+ 
+
+V.       Your rights: How to access to and control your personal information
+
+ 
+
+(a)    Access to or correct your personal information.  You may refer to our contact information listed at the top of this Policy to request access or correct your personal information which are provided to us but has errors.  Such rights will not be affected by international transfer of your personal information.  Before any access or correction starts, we may require you to provide some information so to check and verify your identity as the App account owner.
+
+ 
+
+(b)   Refuse to receive promotion notifications.  You may click on the “unsubscribe” button in emails sent by us to refuse to receive promotion notifications.  You can also find in the user setting interface to avoid receiving promotion notifications on the App end.  Furthermore, you may also opt out from targeted advertising in the App within your App account interface by choosing to opt out, consequently advertisements pushed to you would be irrelevant to your interests.
+
+ 
+
+(c)    Withdraw your consent other than promotion notifications, or to request us to delete your personal information in our storage.  You are entitled to withdraw your previous consent to our collection, use or transmission to others, without affecting the validity of the actions and situation based on your previous consent.  If you find our collection and usage of your personal information are in violation of the Law or our mutual agreements, you may contact us to request for the deletion of your personal information.  Please note that you may not unsubscribe or refuse to receive any emails related to your App account (e.g. App account verifications, order confirmations, changes or updates of service functions, or notices regarding technology and safety, etc.) as long as you did not cancel your App account.
+
+ 
+
+(d)   Cancel your App account.  You may initiate cancellation of your App account in your App account setting.  Before the completion of the cancelation, we may require you to provide some information to check and verify your identity as the App account owner.  You may also reach out to customer services in the App for assistance.  Please note that we will delete or de-identify your personal information in irreproducible and irrecoverable means, immediately after the cancellation of your App account.
+
+ 
+
+(e)    Your other rights.  If the applicable law provides for your rights other than the above (such as data portability, if applicable), you may contact us at any time by sending an email to us, clearly indicating the right you wish to exercise and attach the documents required for the identification verification process. You may also file a claim with the competent Data Protection Authority in your country.
+
+ 
+
+VI.    Location of data storage, and cross-border transfer of personal information
+
+ 
+
+(a)    Location for storing your personal information.  Personal information collected and generated from your use of ECOVACS HOME products and services will be stored in the servers housed in third-party cloud facilities, which are physically located in Singapore (if your use occurs within APAC area excluding China), Germany (if your use occurs within Europe excluding Russia), Russia (if your use occurs within Russia) or U.S. (if your use occurs within North America, South Ameri ca or Africa).
+
+ 
+
+(b)   International transfer of your personal information.  Since we provide products or services based on our resources and servers worldwide, your personal data might be transmitted to a jurisdiction or accessed from a jurisdiction outside of where you locate.  Such destination jurisdictions include, (i) the jurisdiction where your personal information is stored (if it is the same as where you locate, the cross-border transfer does not apply); (ii) China, where our registered office, our affiliates which are involved in ECOVACS HOME products and services and most of our service providers, are located, and when our employees need to have access to your personal information for handling your issues and also conducting general analysis; (iii) the storage location of some other service providers which serve you on behalf of us through their Api/Sdk integrated into the App, mostly at your located jurisdictions, or at the jurisdiction where their relevant branch resides to peculiarly serve your located jurisdiction (U.S. in Zendesk case); and (iv) some other jurisdictions from where your App account was once logged in, provided that the data storage location for such jurisdictions differs from your domicile country. All such international transfers are made in connection by and between the relevant servers housed in third-party cloud facilities and physically located in such jurisdictions, and we will prompt third-party cloud suppliers to adopt appropriate safeguards in compliance with the Law.
+
+ 
+
+VII. Liability
+
+ 
+
+Claims for damages for a breach of duty and in tort, and claims for reimbursement of futile expenses, are excluded with regard to our employees, agents and us.
+
+ 
+
+This limitation of liability shall not apply, if the damage was willfully caused or by gross negligence, or on a breach of material contractual obligations, meaning contractual obligations that enable proper enforcement of the contract in the first place and which the contractual partner can rely on to be fulfilled on a regular basis, and may endanger fulfilling the purpose of the contract if in violation.  It shall also not apply to damage caused by injuries to life, limb or health, if we are held responsible for breach of duty.  The limitation shall further not apply to damage that is caused by the absence of a warranted quality or for which liability is stipulated under the Law.
+
+ 
+
+VIII.             Amendment to this Policy
+
+ 
+
+We may amend this Policy from time to time.  In such a case, we will seek your consent on the condition that we have notified you of such amendment by one or more of the following ways: (i) show the amended privacy policy to you in the form of push notifications when you log in the App account or update your products or services; or (ii) contact you via your contact information on file, for example by email or other equivalent methods.  Once you opt in, the updated version shall become binding upon you instead of this Policy.
+
+ 
+
+You can find the latest version of the ECOVACS HOME Privacy Policy by checking your App account setting in the App.  We encourage you check our privacy policy whenever you access our services.
+
+ 
+
+IX.     Severability
+
+ 
+
+If any provision in this Policy is deemed to be unlawful or unenforceable, that provision will be amended by us insofar as necessary in order to make it lawful or enforceable, while retaining the meaning of that provision as much as possible.
+
+ 
+
+Whenever possible, the provisions of this Policy shall be interpreted in such a manner as to be valid and enforceable under the Law.  However, if one or more provisions of this Policy are found to be invalid, illegal or unenforceable, in whole or in part, the remainder of that provision and of this Policy shall remain in full force and effect as if such invalid, illegal or unenforceable provision had never been contained herein.
+
+ 
+
+Annex: Third Party List
+
+ 
+
+1.       Cloud Storage – Ali Cloud
+
+l  Functions in support: Store and transmit various data collected from all our products and services; maintain the connection between your Device and your App account and Sub Account Holders (if any).
+
+l  What type of your information is accessed: All information we collect as revealed in the Policy.
+
+l  What permissions of your mobile device is sought: Nil
+
+l  How to obtain information from our products and services: According to your commands or upon our instructions.
+
+ 
+
+2.       Cloud Storage – Tencent Cloud (only for the data generated by use in Russia)
+
+l  Functions in support: Store and transmit various data collected from all our products and services; maintain the connection between your Device and your App account and Sub Account Holders (if any).
+
+l  What type of your information is accessed: All information we collect as revealed in the Policy.
+
+l  What permissions of your mobile device is sought: Nil
+
+l  How to obtain information from our products and services: According to your commands or upon our instructions.
+
+ 
+
+3.       Cloud Storage – Qiniu Cloud Storage
+
+l  Functions in support: Receive and store the data you voluntarily enter into the App
+
+l  What type of your information is accessed: Pictures and videos that you upload onto the App, including your profile photo, screenshots or questions of your questions and feedbacks etc.
+
+l  What permissions of your mobile device are sought: Nil
+
+l  How to obtain information from our products and services: According to your commands or upon our instructions.
+
+ 
+
+4.       “Internet of Things” Service – Ali IOT (Ali Feiyan)
+
+l  Functions in support: Enable your Device to be connected with our servers; support your Device’s operations which rely on the network (including controlling your Device through your APP account) and output the performance in a visual form.
+
+l  What type of your information is accessed: All information collected from your Device (operational log and errors, network access information and geographical location of your Device, etc.), basic information of your Device (model, SN code, etc.), and Ecovacs ID under which your Device is controlled.
+
+l  What permissions of your mobile device are sought: Nil
+
+l  How to obtain information from our products and services: According to your commands or upon our instructions.
+
+ 
+
+5.       Obstacle Recognition Service – Ali Cloud Video Service
+
+l  Functions in support: Analyze and classify obstructions in the cleaning environment where your Device is located, based on the functionality of the visual censor of your Device.
+
+l  What type of your information is accessed: Photos and videos captured and recorded by your Device.
+
+l  What permissions of your mobile device are sought: Nil
+
+l  How to obtain information from our products and services: According to your commands or upon our instructions.
+
+ 
+
+6.       Statistic and Analytic Service – Umeng
+
+l  Functions in support: Monitor and analyze the commands and behaviors made by your App account; spot the needs and concerns so to improve our services and technology; conduct user profiling on you.
+
+l  What type of your information is accessed: Log files of your App account (including the network matching time); model, unique identification code, IP address, Mac address and geographic location of your mobile device.
+
+l  What permissions of your mobile device are sought: “Location” for country and city where your mobile device is located, and “Location” and “Wi-Fi Information” for IP address of your mobile device.
+
+l  How to obtain information from our products and services: Directly acquire and keep monitoring personal information incorporated in your App account, by APP’s built-in SDK/API.
+
+ 
+
+7.       Notification Push Service – Apple
+
+l  Functions in support: Push various kinds of messages within the App for iOS systems.
+
+l  What type of your information is accessed: Your Ecovacs ID.
+
+l  What permissions of your mobile device are sought: “Notification” for push to the top page of your mobile device; and “Storage” for downloading and installing new versions of the App.
+
+l  How to obtain information from our products and services: The installation of the App on your mobile device of iOS system. This service is integrated in the APP’s built-in SDK/API.
+
+ 
+
+8.       Notification Push Service – Google
+
+l  Functions in support: Push various kinds of messages within the App for Android systems
+
+l  What type of your information is accessed: Your Ecovacs ID.
+
+l  What permissions of your mobile device is sought: “Notification” for push to the top page of your mobile device; and “Storage” for downloading and installing new versions of the App.
+
+l  How to obtain information from our products and services: The installation of the App on your mobile device of Android system. This service is integrated in the APP’s built-in SDK/API.
