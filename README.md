@@ -6,8 +6,8 @@ Diese Richtlinien habe ich als Quelle für meinen Amazon Review zum folgenden Pr
 
 Der Vollständigkeit halber folgt auch hier noch einmal meine Einschätzung zum Saug- und Wischroboter `Ecovacs Deebot OZMO T8 AIVI`
 
->Da ich die Datenschutzrichtlinie nicht online gefunden habe (lediglich in der ECOVACS-HOME-App selbst) habe ich sie unter folgendem Link auf Deutsch und Englisch hochgeladen.
->https://github.com/LasseWolter/ECOVACS_HOME_App_Datenschutzrichtlinie
+>(Da ich die Datenschutzrichtlinie nicht online gefunden habe (lediglich in der ECOVACS-HOME-App selbst) habe ich sie unter folgendem Link auf Deutsch und Englisch hochgeladen.
+>https://github.com/LasseWolter/ECOVACS_HOME_App_Datenschutzrichtlinie)
 >
 >Ich war kurz davor dieses Produkt zu kaufen, hatte jedoch etwas bedenken aufgrund der Kamera und den dadurch gesammelten Daten. 
 >Somit entschied ich mich, die  ECOVACS-HOME-App bereits jetzt herunterzuladen, um den Datenschutz zu checken. Meiner Ansicht nach, ist das Ergebnis sehr erschreckend und inakzeptabel. 
