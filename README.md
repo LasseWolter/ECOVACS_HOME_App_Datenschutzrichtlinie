@@ -1,1 +1,2 @@
-# ECOVACS-HOME-App Datenschutzrichtlinie (Stand 17.02.2021)
+# ECOVACS-HOME-App Datenschutzrichtlinie
+_Stand 17.02.2021_
